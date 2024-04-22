@@ -2,8 +2,8 @@
 
 const Subscribe = () => {
     return (
-        <div className="my-40">
-            <div className=" w-[100%] h-[360px] shrink-0 bg-[#F1632D] grid grid-cols-2 gap-20 ">
+        <div className="lg:my-40 my-10">
+            <div className=" w-[100%] h-[360px] shrink-0 bg-[#F1632D] grid lg:grid-cols-2 gap-20 ">
                 <div className="p-10">
                     <h1 className="text-center text-white text-[32px]
             font-semibold leading-[43px]">Never Miss Our New Recipes</h1>
@@ -21,8 +21,8 @@ const Subscribe = () => {
                         </div>
                     </div>
                 </div>
-                <div>
-                    <img className="w-[364px] h-[448px] bg-neutral-200 rounded-lg mt-[-6%]" 
+                <div className="bg-white w-fit p-5 mt-[-10%] rounded-xl">
+                    <img className="w-[364px] h-[448px]  rounded-lg lg:block hidden " 
                     src=" https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_960_720.jpg "
                     />
                 </div>

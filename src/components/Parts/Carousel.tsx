@@ -19,7 +19,6 @@ const Carousel = () => {
                 
                 rounded-[9px]">
                     <img src="https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_960_720.jpg" alt="pancakes" className=" h-80 shrink-0 rounded-lg" />
-                    <h1 className=" text-center text-2xl font-bold leading-[31.992px] pb-10">v eewe </h1>
                 </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -27,7 +26,7 @@ const Carousel = () => {
                 
                 rounded-[9px]">
                     <img src='https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_960_720.jpg' alt="pancakes" className=" h-80 shrink-0 rounded-lg" />
-                    <h1 className=" text-center text-2xl font-bold leading-[31.992px] pb-10">v eewe </h1>
+                   
                 </div>
             </SwiperSlide>
             <SwiperSlide>
@@ -35,7 +34,7 @@ const Carousel = () => {
                 
                 rounded-[9px]">
                     <img src='https://cdn.pixabay.com/photo/2016/11/18/17/42/barbecue-1836053_960_720.jpg' alt="pancakes" className=" h-80 shrink-0 rounded-lg" />
-                    <h1 className=" text-center text-2xl font-bold leading-[31.992px] pb-10">v eewe </h1>
+                    
                 </div>
             </SwiperSlide>
 
